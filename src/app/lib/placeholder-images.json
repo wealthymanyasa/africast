@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "financial-preview",
+      "description": "Financial Pattern Projector showing hotspots",
+      "imageUrl": "/images/financial.png",
+      "imageHint": "financial analysis"
+    },
+    {
+      "id": "operational-preview",
+      "description": "Operational Intelligence Dashboard for system health",
+      "imageUrl": "/images/dashboard.png",
+      "imageHint": "dashboard preview"
+    }
+  ]
+}
